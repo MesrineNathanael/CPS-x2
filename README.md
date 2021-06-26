@@ -1,5 +1,5 @@
 # :flying_disc: CPS-x2
-Double your CPS (Click per seconds) easly.
+Double your CPS (Click per seconds) easily in Minecraft and other.
 
 # :round_pushpin: How to use it ?
 Your first need to know how many CPS you make at your best.
