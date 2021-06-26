@@ -16,3 +16,7 @@ Algorithm behind :
         ms = ms * 1000
         ms = ms / 2
         ms = ms - 5
+
+
+# Screenshot
+![alt text](https://i.imgur.com/yjAWpJn.png)
